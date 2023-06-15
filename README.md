@@ -8,11 +8,11 @@
 <!-- Course-->
 
 <div id="author" align="right">
-  <a href="https://github.com/ncgc/template_repo/README.md">
+  <a href="https://github.com/ncgc/template_repo">
     <img src="./assets/images/us.png" width="20rem" alt="English"> 
       EN
   </a>
-  <a href="https://github.com/ncgc/template_repo/README.PT-BR.md">
+  <a href="https://github.com/ncgc/template_repo/blob/develop/README.PT-BR.md">
     <img src="./assets/images/br.png" width="20rem" alt="Portuguese">
       PT
   </a>
