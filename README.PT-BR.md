@@ -66,6 +66,8 @@
 <br>
 
 ----
-<footer id="author" align="center">
-Feito com 💜 por ncgc
+<footer>
+<div id="author" align="center">
+  Feito com 💜 por ncgc
+</div>
 </footer>
